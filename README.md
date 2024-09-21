@@ -68,5 +68,11 @@ can be set with constants defined in lines 145-185.
 }
 ```
 
+## Acknowledgements
+This work was co-funded by the European Union (ERC, NG-NLG, 101039303).
+
+<img src="img/LOGO_ERC-FLAG_FP.png" alt="erc-logo" height="150"/>
+
+
 [1]: https://lileipisces.github.io/files/ACL21-PETER-paper.pdf
 [2]: https://github.com/lileipisces/PETER
